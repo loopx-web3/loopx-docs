@@ -6,8 +6,6 @@ description: >-
 
 # 💢 Risks with Centralized AI
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
-
 ## **Ownership Centralization**
 
 Currently, AI technologies are owned by the most powerful tech companies. The data is contributed by everyone but only the biggest companies retain the most financial benefits.

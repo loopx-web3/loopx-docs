@@ -19,5 +19,3 @@ LoopX builds the fundamental Web3 data intelligence layer for onchain security, 
 ## A Censorship Resistant Future for Data Applications
 
 LoopX AI network is to provide censorship resistance, public access and ownership for the AI development. It is a hardware coordination layer for compute resources and data intelligence layer for AI development coordination.
-
-<figure><img src=".gitbook/assets/Slide25.jpg" alt=""><figcaption></figcaption></figure>
