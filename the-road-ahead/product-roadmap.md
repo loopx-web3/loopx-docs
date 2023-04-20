@@ -4,11 +4,6 @@ description: Build the network, followed by protocols and ecosystem applications
 
 # 🏗 Product Roadmap
 
-<figure><img src="../.gitbook/assets/Slide14 (1).jpg" alt=""><figcaption></figcaption></figure>
-
-* LoopX has currently launched the fully functional Web3 NFT Social Platform as Web3 Social Ecosystem project with 10k projected user sign-ups by Q1 2023.​​
-* We aim to develop, test, and deploy the chain agnostic identity system by Q1 2023.​​
-
 ## **2022 – Starting Up**
 
 * Team Building
