@@ -9,7 +9,7 @@
 ## 🍀 Web3 AI Layer in Rescue
 
 * [Decentralized AI Infrastructure](the-road-ahead/the-northstar.md)
-* [AI Predictions as Oracle](the-road-ahead/product-vision.md)
+* [AI Predictions as Oracle](web3-ai-layer-in-rescue/ai-predictions-as-oracle.md)
 * [Omni-chain Model Access](web3-ai-layer-in-rescue/omni-chain-model-access.md)
 
 ## 💁 Use Cases
