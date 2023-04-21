@@ -22,7 +22,6 @@
 * [Fraud & Security Solutions](use-cases/xchain-security-solutions.md)
 * [Privacy Preserving Model & Data Mining](use-cases/privacy-preserving-model-and-data-mining.md)
 * [Rebuild Silicon Valley Onchain](use-cases/rebuild-silicon-valley-onchain.md)
-* [Product Roadmap](the-road-ahead/product-roadmap.md)
 
 ## 👨🎓 Technical References
 
