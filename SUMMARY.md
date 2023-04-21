@@ -4,7 +4,7 @@
 
 * [Limited On-chain Data Access](README.md)
 * [AI at the Risk of Centralization](getting-started/solution-overview.md)
-* [Web2 User Data Monopolies](existing-problems/web2-data-monopolies.md)
+* [Web2 User Data Monopolies](existing-problems/web2-user-data-monopolies.md)
 
 ## 🍀 Web3 AI Layer in Rescue
 
@@ -14,11 +14,9 @@
 
 ## 💁 Use Cases
 
-* [xChain Social & Identity](use-cases/xchain-social-identity.md)
-* [xChain Credit Layer](use-cases/xchain-credit-layer.md)
-* [Fraud & Security Solutions](use-cases/xchain-security-solutions.md)
-* [Privacy Preserving Model & Data Mining](use-cases/privacy-preserving-model-and-data-mining.md)
-* [Rebuild Silicon Valley Onchain](use-cases/rebuild-silicon-valley-onchain.md)
+* [For Users](use-cases/for-users.md)
+* [For Developers](use-cases/for-developers.md)
+* [For DApps](use-cases/for-dapps.md)
 
 ## 👨🎓 Technical References
 
