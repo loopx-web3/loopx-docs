@@ -3,7 +3,7 @@
 ## 🚱 Existing Problems
 
 * [Limited On-chain Data Access](README.md)
-* [AI at the Risk of Centralization](existing-problems/ai-at-the-risk-of-centralization.md)
+* [AI at the Risk of Centralization](getting-started/solution-overview.md)
 * [Web3 in Lack of Useful Apps](existing-problems/web3-in-lack-of-useful-apps.md)
 * [Web3 Full of Scams & Fraud](existing-problems/web3-full-of-scams-fraud.md)
 * [Difficult Web3 Content Discovery](existing-problems/difficult-web3-content-discovery.md)
@@ -11,12 +11,12 @@
 
 ## 🍀 Web3 AI Layer in Rescue
 
-* [Decentralized AI Infrastructure](web3-ai-layer-in-rescue/decentralized-ai-infrastructure.md)
-* [AI Predictions as Oracle](web3-ai-layer-in-rescue/product-vision.md)
-* [Omni-chain Data Access](web3-ai-layer-in-rescue/omni-chain-ai-predictions.md)
-* [Product Roadmap](web3-ai-layer-in-rescue/product-roadmap.md)
+* [Decentralized AI Infrastructure](the-road-ahead/the-northstar.md)
+* [AI Predictions as Oracle](the-road-ahead/product-vision.md)
+* [Omni-chain Data Access](how-loopx-works/omni-chain-ai-predictions.md)
+* [Product Roadmap](the-road-ahead/product-roadmap.md)
 
-## 👨🎓 Use Cases
+## 💁 Use Cases
 
 * [xChain Social & Identity](use-cases/xchain-social-identity.md)
 * [xChain Credit Layer](use-cases/xchain-credit-layer.md)
