@@ -2,7 +2,7 @@
 description: AI network predictions are published omni-chain through the network contracts.
 ---
 
-# 👷 Network Contracts
+# Network Contracts
 
 ### Deployed EVM AI Prediction Contracts
 

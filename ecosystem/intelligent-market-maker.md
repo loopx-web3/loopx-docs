@@ -2,7 +2,7 @@
 description: DeltaFi.trade is a cross chain trading and oracle AMM swap.
 ---
 
-# 💹 Intelligent Market Maker
+# Intelligent Market Maker
 
 ## [**DeltaFi.trade**](https://deltafi.trade/)
 

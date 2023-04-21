@@ -2,7 +2,7 @@
 description: LoopX Network token is an ERC-20 token on TBD chain.
 ---
 
-# 🪙 Token Contracts
+# Token Contracts
 
 ### Mint Contracts
 

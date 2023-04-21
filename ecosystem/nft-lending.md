@@ -4,7 +4,7 @@ description: >-
   empower NFT pricing.
 ---
 
-# 💸 NFT Lending
+# NFT Lending
 
 ## [Litra.Finance](https://litra.finance/)
 
