@@ -1,9 +1,9 @@
 ---
 description: >-
-  Web3 content discovery is difficult, which makes it hard for users to learn
-  more about Web3.
+  User data is subject to privacy and ownership issues, under the control of
+  Web2 big tech companies.
 ---
 
-# Difficult Web3 Content Discovery
+# Data Controlled by Web2 Monopolies
 
-In Web2, there are personalization applications for users to learn about news etc. Web3 is in lack of such solutions. All such Tiktok & ChatGPT like solutions are powered by AI.
+Users contribute the data, while Web2 companies retain the financial benefits.
