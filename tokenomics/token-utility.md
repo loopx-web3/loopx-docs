@@ -2,7 +2,7 @@
 description: The network is governed by the token.
 ---
 
-# 🎗 Token Utility
+# Token Utility
 
 ## Governance Token
 

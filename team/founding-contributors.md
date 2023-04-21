@@ -2,7 +2,7 @@
 description: LoopX Network is founded by a group of high profile researchers and engineers.
 ---
 
-# 🏛 Founding Contributors
+# Founding Contributors
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 

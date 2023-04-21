@@ -2,7 +2,7 @@
 description: The network token has the maximum supply of 10,000,000,000.
 ---
 
-# ⏰ Release Schedule
+# Release Schedule
 
 ## Token Supply
 

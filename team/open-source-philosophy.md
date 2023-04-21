@@ -4,7 +4,7 @@ description: >-
   There are numerous network contributors.
 ---
 
-# 📭 Open Source Philosophy
+# Open Source Philosophy
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 

@@ -2,7 +2,7 @@
 description: LoopX Network adopts a decentralized and community driven philosophy.
 ---
 
-# 🎗 Network Contributors
+# Network Contributors
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
