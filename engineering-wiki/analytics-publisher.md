@@ -2,7 +2,7 @@
 description: The analytics publishers emit data sources for the LoopX Network.
 ---
 
-# 🔊 Analytics Publisher
+# Analytics Publisher
 
 <figure><img src="../.gitbook/assets/pipelines.svg" alt=""><figcaption><p>Aggregation solution overview. Batch jobs include but not limited to Python and Spark jobs. Commonly used data stores are S3, Kafka, MySQL and DynamoDB.</p></figcaption></figure>
 

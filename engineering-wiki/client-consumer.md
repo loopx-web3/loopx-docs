@@ -2,7 +2,7 @@
 description: Client consumers are the interfaces to off-chain applications.
 ---
 
-# 🚚 Client Consumer
+# Client Consumer
 
 <figure><img src="../.gitbook/assets/consumer.svg" alt=""><figcaption><p>Client consumer SDKs are utility tools for off-chain applications. Typical applications include but not limited to data verifications and analytics dashboard.</p></figcaption></figure>
 

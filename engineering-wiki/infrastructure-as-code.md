@@ -2,7 +2,7 @@
 description: The network infrastructure is automated with code.
 ---
 
-# ⛰ Infrastructure as Code
+# Infrastructure as Code
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Deploying on the LoopX Network can be messy and error prone if we operate the network manually. Thus, infrastructure as code philosophy is adopted to build reusable tools for validators, analytics publishers and client consumers.</p></figcaption></figure>
 

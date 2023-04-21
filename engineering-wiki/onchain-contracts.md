@@ -4,7 +4,7 @@ description: >-
   predictions.
 ---
 
-# 🌈 Onchain Contracts
+# Onchain Contracts
 
 <figure><img src="../.gitbook/assets/contracts-loopx (1).svg" alt=""><figcaption><p>Contracts are called by DApps for onchain applications and consumer SDKs for offchain applications. It is the interface with offchain and onchain services.</p></figcaption></figure>
 

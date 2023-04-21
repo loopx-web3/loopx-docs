@@ -14,7 +14,6 @@
 * [Decentralized AI Infrastructure](the-road-ahead/the-northstar.md)
 * [AI Predictions as Oracle](the-road-ahead/product-vision.md)
 * [Omni-chain Data Access](how-loopx-works/omni-chain-ai-predictions.md)
-* [Product Roadmap](the-road-ahead/product-roadmap.md)
 
 ## 💁 Use Cases
 
@@ -23,6 +22,11 @@
 * [Fraud & Security Solutions](use-cases/fraud-and-security-solutions.md)
 * [Privacy Preserving Model & Data Mining](use-cases/privacy-preserving-model-and-data-mining.md)
 * [Rebuild Silicon Valley Onchain](use-cases/rebuild-silicon-valley-onchain.md)
+* [Product Roadmap](use-cases/product-roadmap.md)
+
+## 🚗 The Road Ahead
+
+* [Product Roadmap](the-road-ahead/product-roadmap.md)
 
 ## 👨🎓 Technical References
 
@@ -49,11 +53,11 @@
 ## 🔰 Engineering Wiki
 
 * [Architecture Overview](engineering-wiki/architecture-overview.md)
-* [🔊 Analytics Publisher](engineering-wiki/analytics-publisher.md)
-* [🚚 Client Consumer](engineering-wiki/client-consumer.md)
-* [🏛 Substrate Network](engineering-wiki/substrate-network.md)
-* [🌈 Onchain Contracts](engineering-wiki/onchain-contracts.md)
-* [⛰ Infrastructure as Code](engineering-wiki/infrastructure-as-code.md)
+* [Analytics Publisher](engineering-wiki/analytics-publisher.md)
+* [Client Consumer](engineering-wiki/client-consumer.md)
+* [Substrate Network](engineering-wiki/substrate-network.md)
+* [Onchain Contracts](engineering-wiki/onchain-contracts.md)
+* [Infrastructure as Code](engineering-wiki/infrastructure-as-code.md)
 
 ## 🏝 Ecosystem
 

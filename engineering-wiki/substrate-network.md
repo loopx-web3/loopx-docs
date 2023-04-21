@@ -2,7 +2,7 @@
 description: The substrate network is a peer-to-peer overlay infrastructure.
 ---
 
-# 🏛 Substrate Network
+# Substrate Network
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Self-organizing and autonomous overlay network.</p></figcaption></figure>
 
