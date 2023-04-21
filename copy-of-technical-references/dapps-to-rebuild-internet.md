@@ -2,7 +2,7 @@
 description: LoopX Network empowers data-driven DApps to rebuild the Internet on-chain.
 ---
 
-# 💼 DApps to Rebuild Internet
+# DApps to Rebuild Internet
 
 ## AI Foundations
 

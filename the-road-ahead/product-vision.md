@@ -2,7 +2,7 @@
 description: Democratize AI Onchain with Full Decentralization
 ---
 
-# 🎯 Product Vision
+# Product Vision
 
 <figure><img src="../.gitbook/assets/Slide19.jpg" alt=""><figcaption></figcaption></figure>
 

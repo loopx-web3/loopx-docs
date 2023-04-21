@@ -2,7 +2,7 @@
 description: LoopX Network is omni-chain with Wormhole cross chain mechanism.
 ---
 
-# 🌐 Omni-chain AI Predictions
+# Omni-chain AI Predictions
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Wormhole is a cross-chain messaging protocol.</p></figcaption></figure>
 

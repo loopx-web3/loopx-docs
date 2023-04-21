@@ -2,7 +2,7 @@
 description: Compressed learning is to reduce the large model by thousands of times.
 ---
 
-# 🌾 Large Model Communications
+# Large Model Communications
 
 ## The Large Model Challenge
 

@@ -4,7 +4,7 @@ description: >-
   preserving ML.
 ---
 
-# 🔏 Verifiable and Privacy Preserving
+# Verifiable and Privacy Preserving
 
 <figure><img src="../.gitbook/assets/Frame 1000006039 (1).png" alt=""><figcaption><p>Privacy Preserving User Cohorts.</p></figcaption></figure>
 

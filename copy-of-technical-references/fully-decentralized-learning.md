@@ -4,7 +4,7 @@ description: >-
   network.
 ---
 
-# 🍃 Fully Decentralized Learning
+# Fully Decentralized Learning
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>(a) A centralized learning framework. (b) A partially decentralized learning framework. (c) A fully decentralized learning framework.</p></figcaption></figure>
 

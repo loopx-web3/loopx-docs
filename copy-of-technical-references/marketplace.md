@@ -2,7 +2,7 @@
 description: LoopX marketplace incentivizes market participants and developers.
 ---
 
-# 💵 Marketplace
+# Marketplace
 
 <figure><img src="../.gitbook/assets/Slide5.jpg" alt=""><figcaption></figcaption></figure>
 

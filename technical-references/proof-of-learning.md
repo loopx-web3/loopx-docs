@@ -2,7 +2,7 @@
 description: LoopX Network is powered by Proof of Learning concensus algorithm.
 ---
 
-# ⛏ Proof of Learning
+# Proof of Learning
 
 <figure><img src="../.gitbook/assets/Slide4.jpg" alt=""><figcaption></figcaption></figure>
 

@@ -2,7 +2,7 @@
 description: Build the network, followed by protocols and ecosystem applications.
 ---
 
-# 🏗 Product Roadmap
+# Product Roadmap
 
 ## **2022 – Starting Up**
 

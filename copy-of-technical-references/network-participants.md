@@ -4,7 +4,7 @@ description: >-
   fully decentralized system.
 ---
 
-# 🛂 Network Participants
+# Network Participants
 
 <figure><img src="../.gitbook/assets/consensus.jpg" alt=""><figcaption><p>Each validators earn a reputation in serving DApp requests and AI model training.</p></figcaption></figure>
 

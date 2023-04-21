@@ -1,26 +1,37 @@
 # Table of contents
 
-## 🍀 Getting Started
+## 🍀 Problems to Solve
 
-* [Problem Space](README.md)
-* [Solution Overview](getting-started/solution-overview.md)
+* [Limited On-chain Data Access](README.md)
+* [Solution Overview](problems-to-solve/solution-overview.md)
 
 ## 🚗 The Road Ahead
 
-* [🌻 The Northstar](the-road-ahead/the-northstar.md)
-* [🎯 Product Vision](the-road-ahead/product-vision.md)
-* [🏗 Product Roadmap](the-road-ahead/product-roadmap.md)
+* [The Northstar](the-road-ahead/the-northstar.md)
+* [Product Vision](the-road-ahead/product-vision.md)
+* [Product Roadmap](the-road-ahead/product-roadmap.md)
 
-## 👨🎓 How LoopX Works?
+## 👨🎓 Copy of Technical References
 
-* [⛏ Proof of Learning](how-loopx-works/proof-of-learning.md)
-* [🛂 Network Participants](how-loopx-works/network-participants.md)
-* [💵 Marketplace](how-loopx-works/marketplace.md)
-* [🍃 Fully Decentralized Learning](how-loopx-works/fully-decentralized-learning.md)
-* [🔏 Verifiable and Privacy Preserving](how-loopx-works/verifiable-and-privacy-preserving.md)
-* [🌾 Large Model Communications](how-loopx-works/large-model-communications.md)
-* [🌐 Omni-chain AI Predictions](how-loopx-works/omni-chain-ai-predictions.md)
-* [💼 DApps to Rebuild Internet](how-loopx-works/dapps-to-rebuild-internet.md)
+* [Build Web3 Social Layer](copy-of-technical-references/proof-of-learning.md)
+* [Network Participants](copy-of-technical-references/network-participants.md)
+* [Marketplace](copy-of-technical-references/marketplace.md)
+* [Fully Decentralized Learning](copy-of-technical-references/fully-decentralized-learning.md)
+* [Verifiable and Privacy Preserving](copy-of-technical-references/verifiable-and-privacy-preserving.md)
+* [Large Model Communications](copy-of-technical-references/large-model-communications.md)
+* [Omni-chain AI Predictions](copy-of-technical-references/omni-chain-ai-predictions.md)
+* [DApps to Rebuild Internet](copy-of-technical-references/dapps-to-rebuild-internet.md)
+
+## 👨🎓 Technical References
+
+* [Proof of Learning](technical-references/proof-of-learning.md)
+* [Network Participants](technical-references/network-participants.md)
+* [Marketplace](technical-references/marketplace.md)
+* [Fully Decentralized Learning](technical-references/fully-decentralized-learning.md)
+* [Verifiable and Privacy Preserving](technical-references/verifiable-and-privacy-preserving.md)
+* [Large Model Communications](technical-references/large-model-communications.md)
+* [Omni-chain AI Predictions](technical-references/omni-chain-ai-predictions.md)
+* [DApps to Rebuild Internet](technical-references/dapps-to-rebuild-internet.md)
 
 ## 💰 Tokenomics
 
