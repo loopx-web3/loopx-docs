@@ -4,7 +4,7 @@ description: >-
   network and onchain contracts.
 ---
 
-# 📖 Architecture Overview
+# Architecture Overview
 
 <figure><img src="../.gitbook/assets/Untitled Diagram-1681092753664.drawio.svg" alt=""><figcaption><p>High level architecture. Analytics publisher, client consumer, substrate network and onchain contracts are the key design components.</p></figcaption></figure>
 

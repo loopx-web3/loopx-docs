@@ -20,7 +20,7 @@
 
 * [xChain Social & Identity](use-cases/xchain-social-identity.md)
 * [xChain Credit Layer](use-cases/xchain-credit-layer.md)
-* [xChain Security Solutions](use-cases/xchain-security-solutions.md)
+* [Fraud & Security Solutions](use-cases/fraud-and-security-solutions.md)
 * [Privacy Preserving Model & Data Mining](use-cases/privacy-preserving-model-and-data-mining.md)
 * [Rebuild Silicon Valley Onchain](use-cases/rebuild-silicon-valley-onchain.md)
 
@@ -48,7 +48,7 @@
 
 ## 🔰 Engineering Wiki
 
-* [📖 Architecture Overview](engineering-wiki/architecture-overview.md)
+* [Architecture Overview](engineering-wiki/architecture-overview.md)
 * [🔊 Analytics Publisher](engineering-wiki/analytics-publisher.md)
 * [🚚 Client Consumer](engineering-wiki/client-consumer.md)
 * [🏛 Substrate Network](engineering-wiki/substrate-network.md)
