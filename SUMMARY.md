@@ -19,13 +19,9 @@
 
 * [xChain Social & Identity](use-cases/xchain-social-identity.md)
 * [xChain Credit Layer](use-cases/xchain-credit-layer.md)
-* [Fraud & Security Solutions](use-cases/fraud-and-security-solutions.md)
+* [Fraud & Security Solutions](use-cases/xchain-security-solutions.md)
 * [Privacy Preserving Model & Data Mining](use-cases/privacy-preserving-model-and-data-mining.md)
 * [Rebuild Silicon Valley Onchain](use-cases/rebuild-silicon-valley-onchain.md)
-* [Product Roadmap](use-cases/product-roadmap.md)
-
-## 🚗 The Road Ahead
-
 * [Product Roadmap](the-road-ahead/product-roadmap.md)
 
 ## 👨🎓 Technical References
@@ -37,6 +33,10 @@
 * [Verifiable and Privacy Preserving](how-loopx-works/verifiable-and-privacy-preserving.md)
 * [Large Model Communications](how-loopx-works/large-model-communications.md)
 * [DApps to Rebuild Internet](how-loopx-works/dapps-to-rebuild-internet.md)
+
+## 🚗 The Road Ahead
+
+* [Product Roadmap](<the-road-ahead/product-roadmap (1).md>)
 
 ## 💰 Tokenomics
 
