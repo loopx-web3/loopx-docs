@@ -1,9 +1,9 @@
 # Table of contents
 
-## 🍀 Why LoopX?
+## 🍀 Getting Started
 
-* [🏆 Democratize AI Onchain](README.md)
-* [💢 Risks with Centralized AI](why-loopx/risks-with-centralized-ai.md)
+* [Decentralized AI Network](README.md)
+* [Solution Overview](getting-started/solution-overview.md)
 
 ## 🚗 The Road Ahead
 

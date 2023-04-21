@@ -4,7 +4,7 @@ description: >-
   government censorship.
 ---
 
-# 💢 Risks with Centralized AI
+# Solution Overview
 
 ## **Ownership Centralization**
 
