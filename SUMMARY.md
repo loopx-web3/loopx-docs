@@ -4,7 +4,7 @@
 
 * [Limited On-chain Data Access](README.md)
 * [AI at the Risk of Centralization](getting-started/solution-overview.md)
-* [Data Controlled by Web2 Monopolies](existing-problems/difficult-web3-content-discovery.md)
+* [Web2 User Data Monopolies](existing-problems/web2-data-monopolies.md)
 
 ## 🍀 Web3 AI Layer in Rescue
 

@@ -6,6 +6,8 @@ description: >-
 
 # Decentralized AI Infrastructure
 
+<figure><img src="../.gitbook/assets/Group 468.png" alt=""><figcaption></figcaption></figure>
+
 ## Democratize, Decentralized & Onchain
 
 LoopX Network is to:
@@ -23,5 +25,3 @@ It is a decentralized Web3 data intelligence infrastructure in which users can p
 It builds the fundamental Web3 data intelligence layer for on-chain security, digital asset management, next generation social networking, targeted user growth, decentralized Web3 content distribution, identity, reputation, personalized recommendation and fully decentralized data ownership. Data ownership is given back to users, while data analytics and intelligence capacities are maintained by LoopX Network in a fully decentralized manner. The learned behaviors are accessible through smart contracts in LoopX network or any other blockchain in privacy preserving manner.
 
 LoopX northstar is a _**decentralized AI infrastructure for everyone to build, connect and earn**_. The technical details are illustrated in the [whitepaper](https://www.loopx.network/whitepaper.pdf).
-
-<figure><img src="../.gitbook/assets/Group 468.png" alt=""><figcaption></figcaption></figure>

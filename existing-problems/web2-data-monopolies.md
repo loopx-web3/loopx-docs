@@ -4,6 +4,6 @@ description: >-
   Web2 big tech companies.
 ---
 
-# Data Controlled by Web2 Monopolies
+# Web2 User Data Monopolies
 
 Users contribute the data, while Web2 companies retain the financial benefits.
