@@ -2,7 +2,7 @@
 
 ## 🍀 Getting Started
 
-* [Decentralized AI Network](README.md)
+* [Problem Space](README.md)
 * [Solution Overview](getting-started/solution-overview.md)
 
 ## 🚗 The Road Ahead
