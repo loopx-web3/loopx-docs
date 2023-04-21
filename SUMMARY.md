@@ -10,7 +10,7 @@
 
 * [Decentralized AI Infrastructure](the-road-ahead/the-northstar.md)
 * [AI Predictions as Oracle](the-road-ahead/product-vision.md)
-* [Omni-chain Data Access](how-loopx-works/omni-chain-ai-predictions.md)
+* [Omni-chain Model Access](web3-ai-layer-in-rescue/omni-chain-model-access.md)
 
 ## 💁 Use Cases
 
