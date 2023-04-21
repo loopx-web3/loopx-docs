@@ -14,9 +14,9 @@
 
 ## 💁 Use Cases
 
-* [For Web3 Users](use-cases/for-web3-users.md)
-* [For Model Builders](use-cases/for-model-builders.md)
-* [For DApp Builders](use-cases/rebuild-silicon-valley-onchain.md)
+* [For Web3 Users](use-cases/xchain-social-identity.md)
+* [For Model Builders](use-cases/privacy-preserving-model-and-data-mining.md)
+* [For DApp Developers](use-cases/rebuild-silicon-valley-onchain.md)
 
 ## 👨🎓 Technical References
 
