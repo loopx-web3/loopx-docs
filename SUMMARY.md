@@ -4,7 +4,7 @@
 
 * [Limited On-chain Data Access](README.md)
 * [AI at the Risk of Centralization](getting-started/solution-overview.md)
-* [Web2 User Data Monopolies](existing-problems/web2-user-data-monopolies.md)
+* [Web2 User Data Monopolies](existing-problems/difficult-web3-content-discovery-1.md)
 
 ## 🍀 Web3 AI Layer in Rescue
 
@@ -14,9 +14,9 @@
 
 ## 💁 Use Cases
 
-* [For Users](use-cases/for-users.md)
-* [For Developers](use-cases/for-developers.md)
-* [For DApps](use-cases/for-dapps.md)
+* [For Web3 Users](use-cases/for-web3-users.md)
+* [For Model Builders](use-cases/for-model-builders.md)
+* [For DApp Builders](use-cases/rebuild-silicon-valley-onchain.md)
 
 ## 👨🎓 Technical References
 
