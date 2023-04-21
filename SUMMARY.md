@@ -6,7 +6,7 @@
 * [AI at the Risk of Centralization](getting-started/solution-overview.md)
 * [Web3 in Lack of Useful Apps](existing-problems/web3-in-lack-of-useful-apps.md)
 * [Web3 Fraud & Security](existing-problems/web3-full-of-scams-fraud.md)
-* [Difficult Web3 Content Discovery](existing-problems/difficult-web3-content-discovery.md)
+* [Web3 Content Discovery](existing-problems/difficult-web3-content-discovery.md)
 * [Data Controlled by Web2 Monopolies](existing-problems/difficult-web3-content-discovery-1.md)
 
 ## 🍀 Web3 AI Layer in Rescue
