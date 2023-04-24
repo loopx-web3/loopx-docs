@@ -23,7 +23,9 @@
 
 ## 🏗 Integration Guidelines
 
-* [Best Practices](integration-guidelines/best-practices.md)
+* [Data Schema](integration-guidelines/data-schema.md)
+* [APIs](integration-guidelines/apis.md)
+* [SDKs](integration-guidelines/best-practices.md)
 
 ## 👨🎓 Technical References
 

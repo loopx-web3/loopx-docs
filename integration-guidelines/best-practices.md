@@ -1,19 +1,7 @@
 ---
-description: >-
-  It is best to use predefined schemas for data publishing and SDKs for AI
-  network and contracts integrations.
+description: SDKs are available for data publishers, DApps, model builders and stakers.
 ---
 
-# Best Practices
-
-## Data Publishing Schema
-
-Coming soon
-
-## SDKs
-
-Coming soon
-
-## APIs
+# SDKs
 
 Coming soon
