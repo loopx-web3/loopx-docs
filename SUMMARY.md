@@ -21,6 +21,10 @@
 * [For Data Owners](use-cases/for-dapp-developers-1.md)
 * [For Token Holders](use-cases/for-token-holders.md)
 
+## 🏗 Integration Guidelines
+
+* [Best Practices](integration-guidelines/best-practices.md)
+
 ## 👨🎓 Technical References
 
 * [Network Participants](how-loopx-works/network-participants.md)
