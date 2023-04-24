@@ -3,18 +3,18 @@
 ## 🚱 Existing Problems
 
 * [Limited Data Access On-chain](README.md)
-* [Inconsistent Web3 Data Retrieval](existing-problems/lack-of-web3-data-standard.md)
+* [Inconsistent Web3 Data Retrieval](existing-problems/inconsistent-web3-data-retrieval.md)
 * [Centralized AI and Data Ownership](existing-problems/centralized-ai-data-ownership.md)
 
 ## 🍀 Web3 AI Layer in Rescue
 
-* [Boundless, Standardized & Summarized Data](web3-ai-layer-in-rescue/omni-chain-model-access.md)
-* [Democratize AI with Blockchains](web3-ai-layer-in-rescue/democratize-ai-with-blockchains.md)
-* [AI Predictions as Omni-chain Oracles](web3-ai-layer-in-rescue/ai-predictions-as-oracle.md)
+* [Democratize AI Onchain](web3-ai-layer-in-rescue/democratize-ai-onchain.md)
+* [AI Predictions as Omni-chain Oracles](web3-ai-layer-in-rescue/ai-predictions-as-omin-chain-oracles.md)
+* [Boundless and Standardized Data](web3-ai-layer-in-rescue/boundless-and-standardized-data.md)
 
 ## 💁 Use cases
 
-* [For Blockchains](use-cases/dapps-to-rebuild-internet.md)
+* [For Blockchains](use-cases/for-blockchains.md)
 * [For Web3 Users](use-cases/xchain-social-identity.md)
 * [For Model Builders](use-cases/privacy-preserving-model-and-data-mining.md)
 * [For DApp Developers](use-cases/for-dapp-developers.md)
