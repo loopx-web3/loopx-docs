@@ -3,17 +3,18 @@
 ## 🚱 Existing Problems
 
 * [Limited Data Access On-chain](README.md)
-* [AI at the Risk of Centralization](getting-started/solution-overview.md)
-* [Web2 User Data Monopolies](existing-problems/difficult-web3-content-discovery-1.md)
+* [Inconsistent Web3 Data Retrieval](existing-problems/lack-of-web3-data-standard.md)
+* [Centralized AI and Data Ownership](existing-problems/centralized-ai-data-ownership.md)
 
-## 🍀 Web3 AI Layer in Rescue
+## 🍀 Decentralized Web3 AI Layer in Rescue
 
-* [Decentralized AI Infrastructure](the-road-ahead/the-northstar.md)
-* [AI Predictions as Oracle](web3-ai-layer-in-rescue/ai-predictions-as-oracle.md)
-* [Omni-chain Model Access](web3-ai-layer-in-rescue/omni-chain-model-access.md)
+* [Boundless, Standardized & Summarized Data](decentralized-web3-ai-layer-in-rescue/omni-chain-model-access.md)
+* [Democratize AI with Blockchains](decentralized-web3-ai-layer-in-rescue/democratize-ai-with-blockchains.md)
+* [AI Predictions as Omni-chain Oracles](decentralized-web3-ai-layer-in-rescue/ai-predictions-as-oracle.md)
 
-## 💁 Use Cases
+## 💁 Use cases
 
+* [For Blockchains](use-cases/dapps-to-rebuild-internet.md)
 * [For Web3 Users](use-cases/xchain-social-identity.md)
 * [For Model Builders](use-cases/privacy-preserving-model-and-data-mining.md)
 * [For DApp Developers](use-cases/for-dapp-developers.md)
@@ -22,13 +23,11 @@
 
 ## 👨🎓 Technical References
 
-* [Proof of Learning](how-loopx-works/proof-of-learning.md)
 * [Network Participants](how-loopx-works/network-participants.md)
 * [Marketplace](how-loopx-works/marketplace.md)
-* [Fully Decentralized Learning](how-loopx-works/fully-decentralized-learning.md)
+* [Proof of Learning](technical-references/proof-of-learning.md)
 * [Verifiable and Privacy Preserving](how-loopx-works/verifiable-and-privacy-preserving.md)
 * [Large Model Communications](how-loopx-works/large-model-communications.md)
-* [DApps to Rebuild Internet](how-loopx-works/dapps-to-rebuild-internet.md)
 
 ## 🚗 The Road Ahead
 
