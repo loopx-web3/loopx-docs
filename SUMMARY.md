@@ -2,7 +2,7 @@
 
 ## 🚱 Existing Problems
 
-* [Limited On-chain Data Access](README.md)
+* [Limited Data Access On-chain](README.md)
 * [AI at the Risk of Centralization](getting-started/solution-overview.md)
 * [Web2 User Data Monopolies](existing-problems/difficult-web3-content-discovery-1.md)
 
