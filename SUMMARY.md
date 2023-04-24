@@ -18,6 +18,7 @@
 * [For Model Builders](use-cases/privacy-preserving-model-and-data-mining.md)
 * [For DApp Developers](use-cases/for-dapp-developers.md)
 * [For Data Owners](use-cases/for-dapp-developers-1.md)
+* [For Token Holders](use-cases/for-token-holders.md)
 
 ## 👨🎓 Technical References
 
