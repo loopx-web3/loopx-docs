@@ -1,12 +1,12 @@
 ---
 description: >-
-  Current Web3 data are inconsistent due to the lack of standardized data
-  schema, analytics and AI predictions.
+  Current Web3 data are inconsistent due to unreliable data sources, variegated
+  data schema and lack of computation standard.
 ---
 
 # Inconsistent Web3 Data Retrieval
 
-<figure><img src="../.gitbook/assets/inconsistency.png" alt=""><figcaption><p>Data Inconsistency: Unreliable Data Sources, Variegated Data Schema and Lack of Computation Standard.</p></figcaption></figure>
+<img src="../.gitbook/assets/Group 75.png" alt="" data-size="original">
 
 The current Web3 data are messy, inconsistent and incomplete. This is illustrated from the following three perspectives.
 
