@@ -6,11 +6,11 @@
 * [Inconsistent Web3 Data Retrieval](existing-problems/lack-of-web3-data-standard.md)
 * [Centralized AI and Data Ownership](existing-problems/centralized-ai-data-ownership.md)
 
-## 🍀 Decentralized Web3 AI Layer in Rescue
+## 🍀 Web3 AI Layer in Rescue
 
-* [Boundless, Standardized & Summarized Data](decentralized-web3-ai-layer-in-rescue/omni-chain-model-access.md)
-* [Democratize AI with Blockchains](decentralized-web3-ai-layer-in-rescue/democratize-ai-with-blockchains.md)
-* [AI Predictions as Omni-chain Oracles](decentralized-web3-ai-layer-in-rescue/ai-predictions-as-oracle.md)
+* [Boundless, Standardized & Summarized Data](web3-ai-layer-in-rescue/omni-chain-model-access.md)
+* [Democratize AI with Blockchains](web3-ai-layer-in-rescue/democratize-ai-with-blockchains.md)
+* [AI Predictions as Omni-chain Oracles](web3-ai-layer-in-rescue/ai-predictions-as-oracle.md)
 
 ## 💁 Use cases
 

@@ -6,7 +6,7 @@ description: >-
 
 # Centralized AI and Data Ownership
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Risks with Today's Internet Development.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 AI technology and data application development is at the risks of:
 
