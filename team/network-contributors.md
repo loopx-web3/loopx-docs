@@ -4,7 +4,7 @@ description: LoopX Network adopts a decentralized and community driven philosoph
 
 # Network Contributors
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 | **Team Role**                  | **Prior Experience**                                                                                                                  | **Detailed Responsibilities**                                                            |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
