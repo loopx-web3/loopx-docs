@@ -6,6 +6,6 @@ description: >-
 
 # Open Source Philosophy
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 The code is open to development from the public for decentralization, transparency and DAO governance.

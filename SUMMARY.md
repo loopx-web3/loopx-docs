@@ -29,6 +29,7 @@
 
 ## 👨🎓 Technical References
 
+* [Architecture Overview](technical-references/architecture-overview.md)
 * [Network Participants](how-loopx-works/network-participants.md)
 * [Marketplace](how-loopx-works/marketplace.md)
 * [Proof of Learning](technical-references/proof-of-learning.md)
