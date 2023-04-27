@@ -113,4 +113,4 @@ We will launch the following by end of May, 2023:
 * NFTs and SBTs with community badges for you to collect, and
 * Injective ecosystem projects integrations.
 
-After that, we will build anything else the Injective community hoping us to build!
+After that, we will build anything the Injective community hoping us to build!
