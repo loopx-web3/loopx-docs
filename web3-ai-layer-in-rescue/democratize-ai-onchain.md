@@ -4,11 +4,11 @@ description: >-
   Infrastructure
 ---
 
-# Decentralized AI Infrastructure
+# Democratize AI Onchain
 
 <figure><img src="../.gitbook/assets/Group 468.png" alt=""><figcaption></figcaption></figure>
 
-## Democratize, Decentralized & Onchain
+## Vision
 
 LoopX Network is to:
 
@@ -16,7 +16,7 @@ LoopX Network is to:
 * **bring AI on-chain** for the public access and privacy, and
 * **fully decentralize** the data collection, model learning and application integrations.
 
-## LoopX AI Network
+## Mission
 
 LoopX is to provide censorship resistance, public access and ownership for the AI development. It is a hardware coordination layer for compute resources and data intelligence layer for AI development coordination.
 
