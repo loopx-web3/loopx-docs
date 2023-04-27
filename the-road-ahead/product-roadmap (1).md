@@ -4,6 +4,8 @@ description: Build the network, followed by protocols and ecosystem applications
 
 # Product Roadmap
 
+<figure><img src="../.gitbook/assets/Group 69 (1).png" alt=""><figcaption></figcaption></figure>
+
 ## **2022 – Starting Up**
 
 * Team Building
@@ -22,10 +24,10 @@ description: Build the network, followed by protocols and ecosystem applications
 * Publish data omni-chain with Wormhole network
 * Implement multi-chain smart contracts and clients for data access
 
-## **Q4 2023 – Web3 Social Trusts & Reputations**
+## **Q4 2023 – Web3 ChatGPT & Security**
 
-* Build protocols for Web3 social trusts
-* Enable next generation SocialFi and GameFi DApps
+* Build protocols for Web3 chats, content discovery and so on
+* Enable next generation AI powered Web3 security and fraud applications
 
 ## **Q1 2024 – Ecosystem & DAO**
 
