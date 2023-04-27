@@ -45,13 +45,6 @@
 * [Release Schedule](tokenomics/release-schedule.md)
 * [Token Utility](tokenomics/token-utility.md)
 
-## 🚣 Team
-
-* [Founding Contributors](team/founding-contributors.md)
-* [Network Contributors](team/network-contributors.md)
-* [Open Source Philosophy](team/open-source-philosophy.md)
-* [Community Driven Development](team/community-driven-development.md)
-
 ## 🔰 Engineering Wiki
 
 * [Architecture Overview](engineering-wiki/architecture-overview.md)
@@ -60,11 +53,6 @@
 * [Substrate Network](engineering-wiki/substrate-network.md)
 * [Onchain Contracts](engineering-wiki/onchain-contracts.md)
 * [Infrastructure as Code](engineering-wiki/infrastructure-as-code.md)
-
-## 🏝 Ecosystem
-
-* [NFT Lending](ecosystem/nft-lending.md)
-* [Intelligent Market Maker](ecosystem/intelligent-market-maker.md)
 
 ## 🚀 Deployed Contracts
 
