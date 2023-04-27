@@ -59,6 +59,10 @@
 * [Network Contracts](deployed-contracts/network-contracts.md)
 * [Token Contracts](deployed-contracts/token-contracts.md)
 
+## 📰 News
+
+* [Injective Hackathon - Spring 2023](news/injective-hackathon-spring-2023.md)
+
 ## 🔗 Resources
 
 * [Homepage](https://loopx.network/)
