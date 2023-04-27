@@ -36,10 +36,6 @@
 * [Verifiable and Privacy Preserving](how-loopx-works/verifiable-and-privacy-preserving.md)
 * [Large Model Communications](how-loopx-works/large-model-communications.md)
 
-## 🚗 The Road Ahead
-
-* [Product Roadmap](<the-road-ahead/product-roadmap (1).md>)
-
 ## 💰 Tokenomics
 
 * [Release Schedule](tokenomics/release-schedule.md)
