@@ -58,12 +58,4 @@
 ## 📰 News
 
 * [Wallet Credit Score Live on Injective](news/wallet-credit-score-live-on-injective.md)
-
-## 🔗 Resources
-
-* [Homepage](https://loopx.network/)
-* [Github](https://github.com/loopx-web3)
-* [Twitter](https://twitter.com/loopx\_web3)
-* [Discord](https://discord.com/invite/C9dbNJkbD7)
-* [Telegram](https://t.me/LoopXnews)
-* [Whitepaper](https://loopx.network/whitepaper.pdf)
+* [Revolutionizing the Blockchain with AI](news/revolutionizing-the-blockchain-with-ai.md)
