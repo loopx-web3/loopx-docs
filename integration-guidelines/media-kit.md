@@ -1,5 +1,5 @@
 ---
-description: SDKs are available for data publishers, DApps, model builders and stakers.
+description: Logos & banners for external partners.
 ---
 
 # Media Kit
