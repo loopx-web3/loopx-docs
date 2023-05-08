@@ -57,7 +57,7 @@
 
 ## 📰 News
 
-* [Injective Hackathon - Spring 2023](news/injective-hackathon-spring-2023.md)
+* [Wallet Credit Score Live on Injective](news/wallet-credit-score-live-on-injective.md)
 
 ## 🔗 Resources
 
