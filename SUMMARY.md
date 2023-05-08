@@ -26,6 +26,7 @@
 * [Data Schema](integration-guidelines/data-schema.md)
 * [APIs](integration-guidelines/apis.md)
 * [SDKs](integration-guidelines/best-practices.md)
+* [Media Kit](integration-guidelines/media-kit.md)
 
 ## 👨🎓 Technical References
 

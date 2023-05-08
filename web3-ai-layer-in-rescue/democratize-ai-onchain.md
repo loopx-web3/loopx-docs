@@ -6,7 +6,7 @@ description: >-
 
 # Democratize AI Onchain
 
-<figure><img src="../.gitbook/assets/Group 468.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 468 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Vision
 
